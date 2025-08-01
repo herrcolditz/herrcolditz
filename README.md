@@ -44,6 +44,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/babeljs-f5da55?style=for-the-badge)
+![MCP](https://img.shields.io/badge/mcp-000000?style=for-the-badge&logo=modelcontextprotocol)
 
 ### Devops
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
